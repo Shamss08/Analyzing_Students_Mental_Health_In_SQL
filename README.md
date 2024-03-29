@@ -12,4 +12,4 @@ The provided SQL query retrieves the following information from the 'students.cs
 - 'average_phq': The average PHQ score.
 - 'average_scs': The average SCS score.
 - 'average_as': The average AS score.
-The query filters the data based on the 'inter_dom' column, selecting only the rows where the value is 'Inter'. It then groups the data by the 'stay' column, calculates the count of international students, and calculates the average scores for PHQ, SCS, and AS. Finally, the results are ordered in descending order based on the 'stay' column.
+\n The query filters the data based on the 'inter_dom' column, selecting only the rows where the value is 'Inter'. It then groups the data by the 'stay' column, calculates the count of international students, and calculates the average scores for PHQ, SCS, and AS. Finally, the results are ordered in descending order based on the 'stay' column.
