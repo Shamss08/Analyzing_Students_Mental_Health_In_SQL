@@ -1,9 +1,9 @@
 # Analyzing_Students_Mental_Health_In_SQL
 
 ## Project Description
-This SQL project involves exploring and analyzing student data to understand how the length of stay (stay) impacts the average mental health diagnostic scores of international students. The project aims to provide insights into the relationship between the duration of stay and the mental health of international students.
+This SQL project involves exploring and analyzing student data to understand how the length of stay impacts the average mental health diagnostic scores of international students. The project aims to provide insights into the relationship between the duration of stay and the mental health of international students.
 
-This SQL project aims to analyze the mental health of students using data from the 'students.csv' file. The project focuses on students' stay, their level of international/domestic status (inter_dom), and various mental health measurements such as Patient Health Questionnaire (PHQ), Social Connectedness Scale (SCS), and Academic Self-Efficacy Scale (AS).
+It aims to analyze the mental health of students using data from the 'students.csv' file. The project focuses on students' stay, their level of international/domestic status, and various mental health measurements such as Patient Health Questionnaire (PHQ), Social Connectedness Scale (SCS), and Academic Self-Efficacy Scale (AS).
 
 The provided SQL query retrieves the following information from the 'students.csv' file:
 
